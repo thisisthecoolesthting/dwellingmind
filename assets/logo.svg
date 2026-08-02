@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+<title id="title">DwellingMind.app</title><desc id="desc">A house containing a connected home record symbol.</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M18 70 72 22l54 48M30 61v62M114 61v62M92 40V27h17v29" stroke="#0f1d2e" stroke-width="8"/>
+<path d="M72 50v23M44 73l28-23 28 23M44 73v29M100 73v29M44 102l28 23 28-23M72 125v-18" stroke="#a7c3a1" stroke-width="5"/>
+<g fill="#a7c3a1" stroke="#a7c3a1"><circle cx="72" cy="50" r="7"/><circle cx="44" cy="73" r="7"/><circle cx="100" cy="73" r="7"/><circle cx="44" cy="102" r="7"/><circle cx="100" cy="102" r="7"/><circle cx="72" cy="125" r="7"/></g>
+<rect x="56" y="68" width="32" height="40" rx="5" fill="#f6f4ef" stroke="#0f1d2e" stroke-width="5"/>
+<path d="M64 80h16M64 88h16M64 96h12" stroke="#0f1d2e" stroke-width="3"/>
+</g>
+<text x="155" y="98" font-family="Inter,Arial,sans-serif" font-size="66" font-weight="700" fill="#0f1d2e">DwellingMind</text>
+<text x="548" y="98" font-family="Inter,Arial,sans-serif" font-size="42" font-weight="700" fill="#89aa83">.app</text>
+</svg>
